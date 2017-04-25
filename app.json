@@ -1,0 +1,7 @@
+{
+  "name": "final notice board projct",
+  "description": "This is a small spring application for all functionality need to develop a project",
+  "repository": "https://github.com/torikraju/heroku",
+  "image": "heroku/java",
+  "addons": [ "heroku-postgresql" ]
+}
