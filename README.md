@@ -1,4 +1,4 @@
-# Spring Boot Heroku demo
+# noticeboard
 
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
@@ -8,8 +8,5 @@ application on [Heroku](http://heroku.com). For more information see the Dev Cen
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-## License
 
-Code is under the [Apache Licence v2](https://www.apache.org/licenses/LICENSE-2.0.txt).
-# heroku
-# noticeboard
+
